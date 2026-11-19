@@ -93,7 +93,6 @@ h2 { margin: 0 0 8px; font-size: 26px; }
 .app h3 { margin: 0 0 6px; font-size: 21px; }
 .app p { margin: 0 0 12px; color: var(--muted); }
 .app .links { display: flex; flex-wrap: wrap; gap: 10px 18px; font-size: 15px; }
-.badge { display: inline-block; font-size: 13px; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 1px 10px; }
 
 /* Contact */
 .contact { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
