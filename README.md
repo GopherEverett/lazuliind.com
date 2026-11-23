@@ -7,6 +7,7 @@ The website for Lazuli Industries LLC: plain HTML and CSS, served by GitHub Page
 | `index.html` | Home: services, apps, contact |
 | `ethlocator/privacy/index.html` | Ethlocator privacy policy (same text as the gist linked from the app listings) |
 | `ethlocator/terms/index.html` | Ethlocator terms of service |
+| `altfuel/privacy/index.html` | AltFuel Finder privacy policy |
 | `404.html` | Not-found page |
 | `assets/` | Stylesheet, favicon, app icon |
 | `CNAME` | Custom domain for GitHub Pages |
